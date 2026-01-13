@@ -46,6 +46,7 @@ footer {
     padding: 1rem;
     border-radius: 5px;
 }
+
 /* Navigation Styles */
 nav {
     Student Name (Lastname, First Name, Middle Initial) background-color: #444;
@@ -82,9 +83,27 @@ nav a:hover {
 #tasks li {
     margin-bottom: 0.5rem;
 }
+
 /* Team Update */
 footer {
-Student Name (Lastname, First Name, Middle Initial)
-font-size: 0.9rem;
-color: #ddd;
+    Student Name (Lastname, First Name, Middle Initial) font-size: 0.9rem;
+    color: #ddd;
+}
+
+/* Next Steps Section */
+#next {
+    margin-top: 2rem;
+    padding: 1rem;
+    background-color: #fff8e1;
+    border-radius: 5px;
+    border-left: 4px solid #ff9800;
+}
+
+#next ol {
+    padding-left: 1.5rem;
+}
+
+#next li {
+    margin-bottom: 0.5rem;
+    padding-left: 0.5rem;
 }

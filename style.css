@@ -82,3 +82,9 @@ nav a:hover {
 #tasks li {
     margin-bottom: 0.5rem;
 }
+/* Team Update */
+footer {
+Student Name (Lastname, First Name, Middle Initial)
+font-size: 0.9rem;
+color: #ddd;
+}
